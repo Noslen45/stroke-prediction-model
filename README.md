@@ -70,4 +70,6 @@ Este projeto demonstrou o desenvolvimento de um modelo de previsão de risco de 
 Se você tiver alguma contribuição, sugestão ou feedback para melhorar este projeto, sinta-se à vontade para enviar um pull request ou abrir uma nova issue. Sua participação é sempre bem-vinda!
 
 ## Autor
-Nelson Fernandes 
+Nelson Fernandes
+nelsondouglaas@hotmail.com
+https://www.linkedin.com/in/nelson-fernandes-4378a2170/
